@@ -3,6 +3,8 @@
 A fun and simple browser-based dice game built with HTML, CSS, and JavaScript. Two players roll dice, and the player with the higher number wins!
 
 ---
+##
+LIVE - [https://dice-sooty.vercel.app/]
 
 ## 🚀 Features
 
